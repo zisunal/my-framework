@@ -1,0 +1,27 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Event",
+  "name": "{EV_NAME}",
+  "description": "{EV_DES}",
+  "image": "{EV_IMG}",
+  "startDate": "{START_DATE}T{START_TIME}{TIME_ZONE}",
+  "endDate": "{END_DATE}T{END_TIME}{TIME_ZONE}",
+  "eventStatus": "https://schema.org/Event{STATUS}",
+  "eventAttendanceMode": "https://schema.org/{MODE}EventAttendanceMode",
+  "location": [{LOCATIONS}],
+  "performer": {
+    "@type": "{PERFORMER_TYPE}",
+    "name": "{PERFORMER_NAME}"
+  },
+  "offers": {
+    "@type": "Offer",
+    "name": "{OFFER_NAME}",
+    "price": "{OFFER_PRICE}",
+    "priceCurrency": "{OFFER_CUR}",
+    "validFrom": "{OFFER_FROM}",
+    "url": "{OFFER_URL}",
+    "availability": "https://schema.org/{OFFER_STATUS}"
+  }
+}
+</script>

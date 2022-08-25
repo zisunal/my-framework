@@ -1,0 +1,28 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "URL"
+  },
+  "headline": "TITLE",
+  "description": "DES",
+  "image": "IMG",  
+  "author": {
+    "@type": "AUTH_TYPE",
+    "name": "AUTH_NAME",
+    "url": "AUTH_URI"
+  },  
+  "publisher": {
+    "@type": "PUB_TYPE",
+    "name": "PUB_NAME",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "PUB_LOGO"
+    }
+  },
+  "datePublished": "CREATED",
+  "dateModified": "UPDATED"
+}
+</script>

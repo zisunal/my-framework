@@ -1,0 +1,28 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "Ques 1",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Ans 1"
+    }
+  },{
+    "@type": "Question",
+    "name": "Ques 2",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Ans 2"
+    }
+  },{
+    "@type": "Question",
+    "name": "Ques 3",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Ans 3"
+    }
+  }]
+}
+</script>
