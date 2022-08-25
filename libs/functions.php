@@ -481,6 +481,7 @@ function include_config (string $directory) : void {
     $files = scandir($dir);
     unset($files[0]);
     unset($files[1]);
+    unset($files[2]);
     foreach ($files as $file) {
         require_once $dir . $file;
     }
