@@ -1,0 +1,9 @@
+SUBDIR=directory-name-if-not-in-root-directory
+DB_HOST=localhost
+DB_USER=database-user
+DB_PASS=database-pass
+DB_NAME=database-name
+DB_PORT=3306
+TM_ZONE=Asia/Dhaka
+DEBUG=true
+FAVICON=assets/img/icon.png

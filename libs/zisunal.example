@@ -1,9 +1,0 @@
-SUBDIR=directory-name-if-not-in-root-directory
-DB_HOST=localhost;
-DB_USER=root;
-DB_PASS=;
-DB_NAME=tournament;
-DB_PORT=3306;
-TM_ZONE=Asia/Dhaka;
-DEBUG=true;
-FAVICON=assets/img/icon.png;
